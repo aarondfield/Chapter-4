@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<title>Chapter 4 - Part 2 of 2</title>
+<meta charset="utf-8">
+<link href="css/ch4pt2.css" rel="stylesheet">
+</head>
+
+<body>
+<div id="wrapper">
+<header>
+	<h1>Visual Elements and Graphics</h1>
+	<h2>Part 2 of 2</h2>
+</header>
+
+<main>
+	<h2>Slideshow</h2>
+	<p>This slideshow has only one image right now as a placeholder. Take WEB-215 (JavaScript) to learn to create slideshows.</p>
+	<figure>
+	<img src="images/tulips-700x525.jpg" alt="Pretty yellow flowers" width="700" height="525">
+	<figcaption>Yellow tulips. Summer, 2014.</figcaption>
+	</figure>
+</main>
+
+<footer>
+	<h2>CSS properties we used (there are more in the chapter):</h2>
+	<h3>CSS Backgrounds</h3>
+	<ul>
+		<li><code>background-image</code></li>
+		<li><code>background-repeat</code></li>
+		<li><code>background-position</code></li>
+		<li><code>background-attachment</code></li>
+		<li><code>background-size</code></li>
+		<li>multiple backgrounds</li>
+	</ul>
+	<h3>CSS Effects</h3>
+	<ul>
+		<li><code>border-radius</code></li>
+		<li><code>box-shadow</code></li>
+		<li><code>text-shadow</code></li>
+		<li><code>opacity</code></li>
+		<li><code>rgba()</code> color</li>
+	</ul>
+</footer>
+</div> <!-- end wrapper -->
+</body>
+</html>
